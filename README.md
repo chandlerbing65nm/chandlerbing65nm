@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
 <h3 align="center">Aspiring machine learning engineer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandlerbing65nm&label=Profile%20views&color=0e75b6&style=flat" alt="chandlerbing65nm" /> </p>
 
@@ -11,6 +10,8 @@
 - 💬 Ask me about **PyTorch, Tensorflow**
 
 - 📫 How to reach me **chandlertimmdoloriel@gmail.com**
+
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
