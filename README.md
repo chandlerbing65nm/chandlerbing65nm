@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **oriented object detection**
 
-- 🌱 I’m currently learning **reinforcement learning**, **3D dynamics**
+- 🌱 I’m currently learning **reinforcement learning**
 
 - 💬 Ask me about **PyTorch, Tensorflow**
 
