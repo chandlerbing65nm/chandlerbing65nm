@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **reinforcement learning**
 
+- 💊 I want to learn **3D computer vision**
+
 - 💬 Ask me about **PyTorch, Tensorflow**
 
 - 📫 How to reach me **chandlertimmdoloriel@gmail.com**
