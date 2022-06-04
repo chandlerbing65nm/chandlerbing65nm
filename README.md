@@ -4,7 +4,9 @@
 # I'm a Gamer, Student, and Engineer
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandlerbing65nm&label=Profile%20views&color=0e75b6&style=flat" alt="chandlerbing65nm" /> </p>
+
+![](https://img.shields.io/badge/Major-EE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
 
 - 🔭 I’m currently working on **oriented object detection**
@@ -27,8 +29,4 @@
 
  ---
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandlerbing65nm&show_icons=true&locale=en&layout=compact" alt="chandlerbing65nm" /></p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandlerbing65nm&show_icons=true&locale=en" alt="chandlerbing65nm" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandlerbing65nm&" alt="chandlerbing65nm" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=chandlerbing65nm&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandlerbing65nm&theme=tokyonight&layout=compact" height="150">
