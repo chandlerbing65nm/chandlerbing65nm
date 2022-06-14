@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
-<h3 align="center">Aspiring machine learning engineer from Philippines</h3>
+<h3 align="center">Computer Vision Researcher from Philippines</h3>
 
 # I'm a Gamer, Student, and Engineer
 
