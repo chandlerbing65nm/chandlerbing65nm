@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
-<h3 align="center">MSc Candidate from Philippines</h3>
+<h3 align="center">MSc Candidate</h3>
 
 # Actively Looking for Internships in AI/ML/CV
 
