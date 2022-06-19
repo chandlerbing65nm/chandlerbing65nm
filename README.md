@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
-<h3 align="center">Computer Vision Researcher from Philippines</h3>
+<h3 align="center">MSc Candidate from Philippines</h3>
 
-# I'm a Gamer, Student, and Engineer
+# Actively Looking for Internships in AI/ML/CV
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
