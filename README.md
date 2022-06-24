@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **reinforcement learning**
 
-- 💊 I want to learn **3D computer vision**
+- 💊 I want to learn **3D computer vision**, **cuda programming**
 
 - 💬 Ask me about **PyTorch, Tensorflow**
 
