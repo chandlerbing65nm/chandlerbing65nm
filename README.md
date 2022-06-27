@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
 <h3 align="center">MSc Candidate</h3>
 
-# Actively Looking for Internships in AI/ML/CV
+# Seeking for Internships and MPhil/PhD in Computer Vision
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
