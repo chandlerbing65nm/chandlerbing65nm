@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **oriented object detection**
 
-- 🌱 I’m currently learning **reinforcement learning**
+- 🌱 I’m currently learning **reinforcement learning** and **robotics**
 
 - 💊 I want to learn **3D computer vision**, **cuda programming**
 
