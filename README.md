@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
 <h3 align="center">MSc Candidate</h3>
 
-# Seeking for Opportunities in Computer Vision and AI
+# Open for PhD opportunities in Computer Vision and AI, Incoming Visiting Research in SUTD, Singapore
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -9,9 +9,9 @@
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
 
-- 🔭 I’m currently working on **oriented object detection**
+- 🔭 I’m currently working on **self-supervised learning in multispectral satellite images**
 
-- 🌱 I’m currently learning **reinforcement learning** and **robotics**
+- 🌱 I’m currently exploring **reinforcement learning** and **robotics**
 
 - 💊 I want to learn **3D computer vision**, **cuda programming**
 
