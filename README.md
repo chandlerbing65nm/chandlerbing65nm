@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
-<h3 align="center">MSc Candidate</h3>
+<h3 align="center">MSEE Graduate from University of the Philippines Diliman</h3>
 
 # Open for PhD opportunities in Computer Vision and AI, Incoming Visiting Research in SUTD, Singapore
 
