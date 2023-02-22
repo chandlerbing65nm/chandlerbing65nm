@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
 <h3 align="center">MSEE Graduate from University of the Philippines Diliman</h3>
 
-# Computer Vision and AI
+<h1 align="center">Computer Vision and AI</h1>
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
 
-- 🔭 I’m currently working on **self-supervised learning in multispectral satellite images**
+- 🔭 I’m currently working on **self-supervised learning in satellite images**
 
 - 🌱 I’m currently exploring **reinforcement learning** and **robotics**
 
