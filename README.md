@@ -12,7 +12,7 @@
 - [12/01/2022] Found new job as AI Engineer in Advanced Science and Technology Institute
 
 
-<h3 align="left">Hobbies:</h3>
+<h3 align="left">Interests:</h3>
 
 - I’m currently working on **self-supervised learning in satellite images**
 - I’m currently exploring **reinforcement learning** and **robotics**
