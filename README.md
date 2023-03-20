@@ -30,7 +30,7 @@
 
 <h3 align="left">Experience:</h3>
 
-- [**AI Engineer**] DOST Advanced Science and Technology Institute, 2022-2020
+- [**AI Engineer**] DOST Advanced Science and Technology Institute, 2020-2022
 - [**Product Engineer**] Analog Devices Philippines, 2019-2020
 
 
