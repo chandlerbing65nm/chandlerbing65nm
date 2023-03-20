@@ -30,8 +30,9 @@
 
 <h3 align="left">Experience:</h3>
 
-- [**AI Engineer**] DOST Advanced Science and Technology Institute, 2020-2022
-- [**Product Engineer**] Analog Devices Philippines, 2019-2020
+- [**Visiting Researcher**] Singapore University of Technology and Design, 04/2022-Present
+- [**AI Engineer**] DOST Advanced Science and Technology Institute, 12/2022-03/2023
+- [**Product Engineer**] Analog Devices Philippines, 04/2019-09/2020
 
 
 <h3 align="left">Contact me:</h3>
