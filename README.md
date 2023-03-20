@@ -1,23 +1,27 @@
-<h1 align="center">Hi 👋, I'm Chandler Timm Doloriel</h1>
-<h3 align="center">MSEE Graduate from University of the Philippines Diliman</h3>
+<h1 align="left">Hi 👋, I'm Chandler, a Computer Vision Researcher</h1>
 
-<h1 align="center">Computer Vision and AI</h1>
-
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<!-- <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
 ![](https://img.shields.io/badge/Major-EE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
+<h3 align="left">News:</h3>
 
-- 🔭 I’m currently working on **self-supervised learning in satellite images**
+- [03/30/2023] Will start as Visiting Researcher in Singapore University of Technology and Design
+- [01/03/2023] We won the Best Paper Award at WACV 2023 MaCVi
+- [12/01/2022] Found new job as AI Engineer in Advanced Science and Technology Institute
 
-- 🌱 I’m currently exploring **reinforcement learning** and **robotics**
 
-- 💊 I want to learn **3D computer vision**, **cuda programming**
+<h3 align="left">Hobbies:</h3>
 
-- 💬 Ask me about **PyTorch, Tensorflow**
+- I’m currently working on **self-supervised learning in satellite images**
+- I’m currently exploring **reinforcement learning** and **robotics**
+- I want to learn **3D computer vision**, **cuda programming**
 
-- 📫 How to reach me **chandlertimmdoloriel@gmail.com**
+<h3 align="left">Contact me:</h3>
+
+- Ask me about **PyTorch, Tensorflow**
+- How to reach me **chandlertimmdoloriel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
