@@ -9,7 +9,7 @@
 
 - [04/2023] Will start as Visiting Researcher in Singapore University of Technology and Design
 - [01/2023] Won the Best Paper Award at WACV 2023 MaCVi Workshop
-- [12/2022] Found new job as AI Engineer in Advanced Science and Technology Institute
+- [12/2022] Found new job as AI Engineer in DOST Advanced Science and Technology Institute
 - [11/2022] 1 paper accepted at WACV 2023 Workshops
 - [09/2022] 1 paper accepted at APSIPA ASC 2022
 
@@ -20,6 +20,19 @@
 - I’m currently working on **self-supervised learning in satellite images**
 - I’m currently exploring **reinforcement learning** and **robotics**
 - I want to learn **3D computer vision**, **cuda programming**
+
+
+<h3 align="left">Education:</h3>
+
+- [**Bachelor**] MSU Iligan Institute of Technology, 2013-2018
+- [**Master**] University of the Philippines Diliman, 2020-2023
+
+
+<h3 align="left">Experience:</h3>
+
+- [**AI Engineer**] DOST Advanced Science and Technology Institute, 2022-2020
+- [**Product Engineer**] Analog Devices Philippines, 2019-2020
+
 
 <h3 align="left">Contact me:</h3>
 
