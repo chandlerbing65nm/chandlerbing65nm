@@ -7,9 +7,11 @@
 
 <h3 align="left">News:</h3>
 
-- [03/30/2023] Will start as Visiting Researcher in Singapore University of Technology and Design
-- [01/03/2023] We won the Best Paper Award at WACV 2023 MaCVi
-- [12/01/2022] Found new job as AI Engineer in Advanced Science and Technology Institute
+- [04/2023] Will start as Visiting Researcher in Singapore University of Technology and Design
+- [01/2023] Won the Best Paper Award at WACV 2023 MaCVi Workshop
+- [12/2022] Found new job as AI Engineer in Advanced Science and Technology Institute
+- [11/2022] 1 paper accepted at WACV 2023 Workshops
+- [09/2022] 1 paper accepted at APSIPA ASC 2022
 
 
 <h3 align="left">Interests:</h3>
