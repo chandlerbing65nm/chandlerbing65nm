@@ -18,14 +18,12 @@
 
 - My expertise are in **object detection, image segmentation, and GAN**.
 - I’m currently working on **self-supervised learning in satellite images**
-- I’m currently exploring **reinforcement learning** and **robotics**
-- I want to learn **3D computer vision**, **cuda programming**
 
 
 <h3 align="left">Education:</h3>
 
-- [**Bachelor**] MSU Iligan Institute of Technology, 2013-2018
 - [**Master**] University of the Philippines Diliman, 2020-2023
+- [**Bachelor**] MSU Iligan Institute of Technology, 2013-2018
 
 
 <h3 align="left">Experience:</h3>
