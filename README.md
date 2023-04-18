@@ -17,7 +17,7 @@
 <h3 align="left">Interests:</h3>
 
 - My expertise are in **object detection, image segmentation, and GAN**.
-- I’m currently working on **self-supervised learning in satellite images**
+- I’m currently working on **self-supervised learning for visual representations**
 
 
 <h3 align="left">Education:</h3>
