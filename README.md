@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Chandler, AI Researcher</h1>
+<h1 align="left">Hi 👋, I'm Chandler</h1>
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
