@@ -1,37 +1,14 @@
-<h1 align="left">Hi 👋, I'm Chandler, a Computer Vision Researcher</h1>
+<h1 align="left">Hi 👋, I'm Chandler, AI Researcher</h1>
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 
 ![](https://img.shields.io/badge/Major-EE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
-<h3 align="left">News:</h3>
-
-- [04/2023] Visiting Researcher in Singapore University of Technology and Design
-- [01/2023] Won the Best Paper Award at WACV 2023 MaCVi Workshop
-- [12/2022] AI Engineer in DOST Advanced Science and Technology Institute
-- [11/2022] 1 paper accepted at WACV 2023 Workshops
-- [09/2022] 1 paper accepted at APSIPA ASC 2022
-
-
 <h3 align="left">Interests:</h3>
 
 - My expertise are in **object detection, image segmentation, and GAN**.
 - I’m currently working on **self-supervised learning for visual representations**
-
-
-<h3 align="left">Education:</h3>
-
-- [**Master**] University of the Philippines Diliman, 2020-2023
-- [**Bachelor**] MSU Iligan Institute of Technology, 2013-2018
-
-
-<h3 align="left">Experience:</h3>
-
-- [**Visiting Researcher**] Singapore University of Technology and Design, 04/2022-Present
-- [**AI Engineer**] DOST Advanced Science and Technology Institute, 12/2022-03/2023
-- [**Product Engineer**] Analog Devices Philippines, 04/2019-09/2020
-
 
 <h3 align="left">Contact me:</h3>
 
