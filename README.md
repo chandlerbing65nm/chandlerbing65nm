@@ -5,11 +5,6 @@
 ![](https://img.shields.io/badge/Major-EE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
-<h3 align="left">Interests:</h3>
-
-- My expertise are in **object detection, image segmentation, and GAN**.
-- I’m currently working on **self-supervised learning for visual representations**
-
 <h3 align="left">Contact me:</h3>
 
 - Ask me about **PyTorch, Tensorflow**
